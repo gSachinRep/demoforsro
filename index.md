@@ -6,12 +6,11 @@
   2. Sign in as *cadetRaghu / cadet123* 
   3. Select ***Full Stack MEA/RN Developer*** course and select ****Course Schedule****.
   4. Check the *Week 4* > *Assignment - Data Munging & Data Visualization* > **Chicago Crime Data**
-[![Assignment Page](https://lh5.googleusercontent.com/jQiwN0RRir8W_SwBXseokbmUw7SX9mYAUwkaeYsco7sgujx0622XRqKhN06rHOLxbIfnTN3lFqCX7Oc=w2560-h1452-rw)]
-[![Assignment Page](https://lh3.googleusercontent.com/GX6YtvAazu37MlJ4_zZ94yd4xiaJUg8P-6eZAhoCdcBO9Z4xzLUlrb2sCNjkyBMinIHWwHVFcEB97KM=w2560-h1452-rw)]
+![Assignment Page](http://imgur.com/A5aUJcf)
   5. Participant reads through the problem statement and then navigate to the following url:
   https://tree.taiga.io/project/projectstackroute-javascript-data-munging-assignment/taskboard/data-munge
  to look at detailed user stories.
-[![Taiga Stories](https://lh6.googleusercontent.com/BMeTpam7hp4UP6kiVJtZPhz7BQbO0PruuL25j-ddbXGozSEBmJbXfCAiBnLensAmvPnUmID3XAUXx9k=w2560-h1452-rw)]
+[![Taiga Stories](https://drive.google.com/file/d/0BxSXnnMA4LByZzd2MTByX1BCSFU/view?usp=sharing)]
  > Start Working on the Assignment
  6. The page also contains the Seed Code repo URL. However, the participant opens up the cloud dev environment using the ***+*****(Plus)** > **Write a Program** link given at the bottom right.
  7. The participant can now see the Cloud Dev Environment workspace. The SEED repo automatically gets cloned into the Workspace for him/her to start working on the assignment.
