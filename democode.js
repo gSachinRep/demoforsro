@@ -51,7 +51,7 @@ module.exports = function() {
 			yearIndex = lines1.indexOf('Year');
 		}
 		const rl = readline.createInterface({
-			input: fs.createReadStream('../data/chicagocrimes.csv')
+			input: fs.createReadStream('data/chicagocrimes.csv')
 		});
 		function checkFirstCondition(lines1)
 		{
@@ -144,4 +144,4 @@ module.exports = function() {
 				}
 			});
 		});
-}
+}();
