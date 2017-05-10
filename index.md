@@ -57,7 +57,7 @@
  $ echo data
  ```
  11. Participants to write the code and submit the code back to thier git repository. 
- (Sample Code for Evaluation - democode.js) 
+ (Sample Code for Evaluation - [democode.js](https://github.com/gSachinRep/demoforsro/edit/master/democode.js))
  > Submitting for Evaluation
  12. When they are ready for submission, the need to Open the Automated Evaluation System - Hobbes by navigating to the following URL:
  internal.stackroute.in
