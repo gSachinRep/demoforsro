@@ -58,12 +58,14 @@
  ```
  11. Participants to write the code and submit the code back to thier git repository. 
  (Sample Code for Evaluation - [democode.js](https://github.com/gSachinRep/demoforsro/edit/master/democode.js))
+ 12. Update the README.md file
  > Submitting for Evaluation
- 12. When they are ready for submission, the need to Open the Automated Evaluation System - Hobbes by navigating to the following URL:
+ 13. When they are ready for submission, the need to Open the Automated Evaluation System - Hobbes by navigating to the following URL:
  internal.stackroute.in
- 13. Click the Login icon and provide ***cadetraghu / cadet123*** as the credentials. The following page will open:
+ 14. Click the Login icon and provide ***cadetraghu / cadet123*** as the credentials. The following page will open:
 ![Hobbes](http://i.imgur.com/VReC8dQ.png)
- 14. Participants to provide the Assignment name - type ```Chicago..``` the drop down for assignment will be visible.
- 15. Participants to provide thier completed assignment repository for evaluation - select from the list of repositories being shown in the drop down.
- 16. Select the icon on the the top right and select ***Feedback***
- 17. Participants can see the status of thier submission - it may take a while to bring the evaluation results.
+ 15. Participants to provide the Assignment name - type ```Chicago..``` the drop down for assignment will be visible.
+ 16. Participants to provide thier completed assignment repository for evaluation - select from the list of repositories being shown in the drop down.
+ 17. Select the icon on the the top right and select ***Feedback***
+ 18. Participants can see the status of thier submission - it may take a while to bring the evaluation results.
+ 19. Mentors can open the Insights (URL) to get more insights of thier progress(via submissions), Quality Delta, and Sessions (via Cloud Based Dev Environment)
