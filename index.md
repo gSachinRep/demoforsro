@@ -6,7 +6,7 @@
   2. Sign in as *cadetRaghu / cadet123* 
   3. Select ***Full Stack MEA/RN Developer*** course and select ****Course Schedule****.
   4. Check the *Week 4* > *Assignment - Data Munging & Data Visualization* > **Chicago Crime Data**
-![Assignment Page](https://lh5.googleusercontent.com/jQiwN0RRir8W_SwBXseokbmUw7SX9mYAUwkaeYsco7sgujx0622XRqKhN06rHOLxbIfnTN3lFqCX7Oc=w2560-h1452-rw)
+[![Assignment Page](https://lh5.googleusercontent.com/jQiwN0RRir8W_SwBXseokbmUw7SX9mYAUwkaeYsco7sgujx0622XRqKhN06rHOLxbIfnTN3lFqCX7Oc=w2560-h1452-rw)]
 ![Assignment Page](https://lh3.googleusercontent.com/GX6YtvAazu37MlJ4_zZ94yd4xiaJUg8P-6eZAhoCdcBO9Z4xzLUlrb2sCNjkyBMinIHWwHVFcEB97KM=w2560-h1452-rw)
   5. Participant reads through the problem statement and then navigate to the following url:
   https://tree.taiga.io/project/projectstackroute-javascript-data-munging-assignment/taskboard/data-munge
