@@ -18,15 +18,15 @@
 [![Cloud Based Dev Environment](http://i.imgur.com/RNEkK0g.png)]
  8. The participant can start coding the Step 1 of the assignment and keep pushing the code in thier gitlab - however for that they would need to first create a empty repository in the gitlab and do some initializations in the dev environment project folder. Navigate inside the project folder by ```cd myJSAssignment``` and the execute the following: 
  ```sh
- rm -rf .git/
+ $ rm -rf .git/
  ``` 
  then 
  ```sh 
- git init
+ $ git init
  ``` 
  and then add the remote origin of the git repository i.e. 
  ```sh 
- git remote add origin https://gitlab-dev.stackroute.in/cadetraghu/myjsassignment.git
+ $ git remote add origin https://gitlab-dev.stackroute.in/cadetraghu/myjsassignment.git
  ```
  9. Participants to do a initial commit and provide git initial configurations to the environment and to verify whether the git is initialized with thier repository - they need to do a
  ```sh
@@ -38,17 +38,19 @@
  ```
  then do 
  ```sh
- git commit -m "First base repo commit"
+ $ git commit -m "First base repo commit"
  ```
  then finally 
  ```sh
- git push origin master
+ $ git push origin master
  ```
  10. Particpants to fetch the data from the data source url - and untar the dataset to start working with the dataset - crimes
  ```sh 
- tar -xcf Data_Sources.tgz
+ $ tar -xvf Data_Source.tgz Data_Source/Crimes_-_2001_to_present.csv
+ $ mv Data_Source/Crimes_-_2001_to_present.csv crimes2001onwards.csv
  ```
  11. Participants to write the code and submit the code back to thier git repository. 
+ (Sample Code for Evaluation - democode.js) 
  > Submitting for Evaluation
  12. When they are ready for submission, the need to Open the Automated Evaluation System - Hobbes by navigating to the following URL:
  internal.stackroute.in
