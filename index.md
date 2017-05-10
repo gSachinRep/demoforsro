@@ -47,7 +47,14 @@
  10. Particpants to fetch the data from the data source url - and untar the dataset to start working with the dataset - crimes
  ```sh 
  $ tar -xvf Data_Source.tgz Data_Source/Crimes_-_2001_to_present.csv
- $ mv Data_Source/Crimes_-_2001_to_present.csv crimes2001onwards.csv
+ $ rm Data_Source.tgz
+ $ mkdir data
+ $ mv Data_Source/Crimes_-_2001_to_present.csv chicagocrimes.csv
+ ```
+ Provide instructions to git to ignore the data folder while commiting the source code
+ ```sh 
+ $ touch .gitignore
+ $ echo data
  ```
  11. Participants to write the code and submit the code back to thier git repository. 
  (Sample Code for Evaluation - democode.js) 
