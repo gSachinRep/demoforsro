@@ -44,7 +44,11 @@
  ```sh
  $ git push origin master
  ```
- 10. Particpants to fetch the data from the data source url - and untar the dataset to start working with the dataset - crimes
+ 10. Particpants to fetch the data from the data source url - and untar the dataset to start working with the dataset - crimes. In order to fetch, you need to use ```wget``` utility.
+ ```sh
+ $ sudo apt-get install wget -y
+ $ wget http://datamill.stackroute.in/software/Setup/Windows/Data_Source.tgz
+ ```
  ```sh 
  $ tar -xvf Data_Source.tgz Data_Source/Crimes_-_2001_to_present.csv
  $ rm Data_Source.tgz
