@@ -6,15 +6,16 @@
   2. Sign in as *cadetRaghu / cadet123* 
   3. Select ***Full Stack MEA/RN Developer*** course and select ****Course Schedule****.
   4. Check the *Week 4* > *Assignment - Data Munging & Data Visualization* > **Chicago Crime Data**
-![Assignment Page](http://imgur.com/A5aUJcf)
+![Assignment Page](http://i.imgur.com/A5aUJcf.png)
+![Assignment Page](http://i.imgur.com/RNEkK0g.png)
   5. Participant reads through the problem statement and then navigate to the following url:
   https://tree.taiga.io/project/projectstackroute-javascript-data-munging-assignment/taskboard/data-munge
  to look at detailed user stories.
-[![Taiga Stories](https://drive.google.com/file/d/0BxSXnnMA4LByZzd2MTByX1BCSFU/view?usp=sharing)]
+![Taiga Stores for Step 1](http://i.imgur.com/RKSw5tI.png)
  > Start Working on the Assignment
  6. The page also contains the Seed Code repo URL. However, the participant opens up the cloud dev environment using the ***+*****(Plus)** > **Write a Program** link given at the bottom right.
  7. The participant can now see the Cloud Dev Environment workspace. The SEED repo automatically gets cloned into the Workspace for him/her to start working on the assignment.
-[![Cloud Based Dev Environment](https://lh6.googleusercontent.com/5hPxl1nZWj-qF1YJcq1-fn_g1zeJufFhDGVqpaqKTgVX62mHQ6TSaOjeISDKrsKSRZ6Z4CgGBGwyePc=w2560-h1452-rw)]
+[![Cloud Based Dev Environment](http://i.imgur.com/RNEkK0g.png)]
  8. The participant can start coding the Step 1 of the assignment and keep pushing the code in thier gitlab - however for that they would need to first create a empty repository in the gitlab and do some initializations in the dev environment project folder. Navigate inside the project folder by ```cd myJSAssignment``` and the execute the following: 
  ```sh
  rm -rf .git/
@@ -52,7 +53,7 @@
  12. When they are ready for submission, the need to Open the Automated Evaluation System - Hobbes by navigating to the following URL:
  internal.stackroute.in
  13. Click the Login icon and provide ***cadetraghu / cadet123*** as the credentials. The following page will open:
-[![Hobbes](https://lh5.googleusercontent.com/quDbDb3dbRbhi3h0mPRzZjTs7cs8ANJ99nILmTgp_4l39mjPzt1NjlFRRjfcJaX67dRgyNrOuChjV8s=w1540-h1324-rw)]
+![Hobbes](http://i.imgur.com/VReC8dQ.png)
  14. Participants to provide the Assignment name - type ```Chicago..``` the drop down for assignment will be visible.
  15. Participants to provide thier completed assignment repository for evaluation - select from the list of repositories being shown in the drop down.
  16. Select the icon on the the top right and select ***Feedback***
